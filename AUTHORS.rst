@@ -27,4 +27,4 @@ Authors
 
 Invenio module for collecting and publishing metrics.
 
-- CERN <info@invenio-software.org>
+- CERN <info@inveniosoftware.org>
