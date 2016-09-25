@@ -29,6 +29,7 @@ recursive-include invenio_metrics *.po *.pot *.mo
 include *.rst
 include *.sh
 include *.txt
+include docs/requirements.txt
 include LICENSE
 include pytest.ini
 recursive-include docs *.bat

@@ -24,7 +24,7 @@ Installation
 Documentation
 -------------
 
-   http://pythonhosted.org/invenio-metrics/
+   http://invenio-metrics.readthedocs.io/
 
 Happy hacking and thanks for flying Invenio-Metrics.
 

@@ -46,4 +46,4 @@ Invenio module for collecting and publishing metrics.
 *This is an experimental developer preview release.*
 
 * Free software: GPLv2 license
-* Documentation: https://pythonhosted.org/invenio-metrics/
+* Documentation: https://invenio-metrics.readthedocs.io/
